@@ -2,6 +2,10 @@
 
 A full-stack web application to track your job applications — built with Node.js, Express, PostgreSQL, and EJS.
 
+## 🌐 Live Demo
+
+👉 [https://job-tracker-rafn.onrender.com](https://job-tracker-rafn.onrender.com)
+
 ![Dashboard Screenshot](./screenshots/dashboard.png)
 
 ---
@@ -156,6 +160,3 @@ This app is deployment-ready for [Render](https://render.com):
 **Your Name**
 [GitHub](https://github.com/Abhaydyuti) · [LinkedIn](https://linkedin.com/in/abhaydyuti)
 
-## 🌐 Live Demo
-
-👉 [https://job-tracker-rafn.onrender.com](https://job-tracker-rafn.onrender.com)
